@@ -1,0 +1,67 @@
+{
+    "title": "微站底部导航菜单",
+    "name": "quickmenu",
+    "version": "1.0",
+    "industry": "business",
+    "resume": "移动端底部快捷导航菜单",
+    "detail": "移动端底部快捷导航菜单",
+    "author": "向军大叔",
+    "url": "http:\/\/www.hdcms.com",
+    "setting": true,
+    "tag": true,
+    "crontab": false,
+    "router": false,
+    "domain": false,
+    "middleware": false,
+    "pay": false,
+    "rule": false,
+    "web": {
+        "entry": [],
+        "member": []
+    },
+    "mobile": {
+        "home": [],
+        "member": []
+    },
+    "subscribes": {
+        "text": false,
+        "image": false,
+        "voice": false,
+        "video": false,
+        "shortvideo": false,
+        "location": false,
+        "link": false,
+        "subscribe": false,
+        "unsubscribe": false,
+        "scan": false,
+        "track": false,
+        "click": false,
+        "view": false
+    },
+    "processors": {
+        "text": false,
+        "image": false,
+        "voice": false,
+        "video": false,
+        "shortvideo": false,
+        "location": false,
+        "link": false,
+        "subscribe": false,
+        "unsubscribe": false,
+        "scan": false,
+        "track": false,
+        "click": false,
+        "view": false
+    },
+    "cover": [],
+    "business": [],
+    "permissions": "",
+    "compatible_version": {
+        "version2": true
+    },
+    "thumb": "",
+    "preview": "preview.jpeg",
+    "install": "",
+    "uninstall": "",
+    "upgrade": ""
+}

@@ -1,0 +1,1 @@
+[ 2018-01-16T21:15:28+08:00 ]E_WARNING: call_user_func_array() expects parameter 1 to be a valid callback, class 'houdunwang\config\build\Base' does not have a method 'findOrCreate'(2)/www/hdcms/vendor/houdunwang/framework/src/build/Facade.php (51).
